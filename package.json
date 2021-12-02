@@ -7,10 +7,12 @@
     "build:js": "webpack",
     "watch:js": "webpack --watch",
     "serve": "npx webpack serve",
-    "dev":"npm-run-all -p watch:js serve"
+    "dev": "npm-run-all -p watch:js serve"
   },
   "dependencies": {
-    "lit": "^2.0.2"
+    "@adobe/lit-mobx": "^2.0.0",
+    "lit": "^2.0.2",
+    "mobx": "^6.3.8"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",

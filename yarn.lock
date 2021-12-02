@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@adobe/lit-mobx@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@adobe/lit-mobx/-/lit-mobx-2.0.0.tgz#68b51278f42d040ea5a7b42c28bc80d8969d8eca"
+  integrity sha512-5uSN9vV8XrLAxLxlmZHb1z2eSD5aqxdrWu6GtidtOVyvDDEw6ry1FPXH9J3/N/bFA0Yo7ciXtu9WMYpWpQnYNg==
+
 "@babel/cli@^7.16.0":
   version "7.16.0"
   resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-7.16.0.tgz#a729b7a48eb80b49f48a339529fc4129fd7bcef3"
@@ -2704,6 +2709,11 @@ mkdirp@^0.5.5:
   integrity sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==
   dependencies:
     minimist "^1.2.5"
+
+mobx@^6.3.8:
+  version "6.3.8"
+  resolved "https://registry.yarnpkg.com/mobx/-/mobx-6.3.8.tgz#a4654b1b69c683237f2444cf0af39a621d4611af"
+  integrity sha512-RfG2y766P1o9u9xrQht/HBXEoUPIr4B3Gjri3reLW/TuHm3I/3TfBBS0OaeMbw19RIF0AymqjDNlJgakN4ZK7g==
 
 ms@2.0.0:
   version "2.0.0"
